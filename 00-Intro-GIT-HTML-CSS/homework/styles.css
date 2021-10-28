@@ -1,12 +1,22 @@
-li{
-    color: rgb(128, 9, 9);background-color: rgb(16, 211, 16);
-}
 h1{
-    color: rgb(126, 6, 6);background-color:rgb(33, 212, 33);
+    color: rgb(126, 6, 6);
+    background-color:rgb(33, 212, 33);
 }
-spanId{
-    background-color: rgb(23, 219, 33);color: rgb(196, 30, 18); font-size: 25px; margin: 50px;
+img{
+    width: 400px;
 }
-thirdDiv{
-    width:500px; height:820px;background-color:hotpink;padding:50px; border-color: crimson; border-style: dashed; border-width: 20px
+#spanId{
+    background-color: rgb(23, 219, 33);
+    color: rgb(196, 30, 18); 
+    font-size: 25px; 
+    margin: 50px;
+}
+#thirdDiv{
+    width:500px; 
+    height:600px;
+    background-color:hotpink;
+    padding:50px; 
+    border-color: crimson; 
+    border-style: dashed; 
+    border-width: 20px
 }
