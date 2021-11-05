@@ -2,15 +2,18 @@
 
 function devolverUltimoElemento(array) {
   // Devuelve el último elemento de un array
-  // Tu código:
-
+  // Tu código: 
+  return array[array.length -1];
 }
 
 function incrementarPorUno(array) {
   // "array" debe ser una arreglo de números enteros
   // Aumenta cada número por 1 y devuelve el array
   // Tu código:
-
+  for(let i=0; i=array.legth; i++){
+    array [i]= array [i]+1;
+    }
+    return array;
 }
 
 function agregarItemAlFinalDelArray(array, elemento) {
